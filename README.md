@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡.Net & React Fullstack Developer | Game Developer ⚡
+⚡.Net & React Fullstack Developer | Unity Game Developer ⚡
 
 
 ## 🌐 Socials:
