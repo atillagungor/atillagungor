@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡.Net & React Fullstack Developer | Unity Game Developer ⚡
+⚡.Net & React Fullstack Developer ⚡
 
 
 ## 🌐 Socials:
@@ -11,13 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atillagungor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atillagungor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=atillagungor&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
