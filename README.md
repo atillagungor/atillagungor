@@ -1,7 +1,5 @@
 <br clear="both">
-
 <h1 align="center">Hi Folks</h1>
-
 ###
 
 <p align="left">My name is Atilla Güngör and I'm a .NET & React Fullstack Developer from Turkey/Istanbul</p>
@@ -88,3 +86,16 @@
 </div>
 
 ###
+
+#### Top Repositories
+
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy](https://www.google.com/search?sca_esv=f7f0ca8bbe6f40fd&q=github+image&tbm=isch&source=lnms&prmd=ivnbtz&sa=X&ved=2ahUKEwissvLKooOFAxWTQvEDHXsXD9MQ0pQJegQIDBAB&biw=1920&bih=919&dpr=1#imgrc=1u5y9vZ_6x64eM)" />
+</a>
+<a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/atillagungor/TobetoPlatformFinalProjectPair1React)">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy](https://www.google.com/search?sca_esv=f7f0ca8bbe6f40fd&q=github+image&tbm=isch&source=lnms&prmd=ivnbtz&sa=X&ved=2ahUKEwissvLKooOFAxWTQvEDHXsXD9MQ0pQJegQIDBAB&biw=1920&bih=919&dpr=1#imgrc=1u5y9vZ_6x64eM)https://www.google.com/search?sca_esv=f7f0ca8bbe6f40fd&q=github+image&tbm=isch&source=lnms&prmd=ivnbtz&sa=X&ved=2ahUKEwissvLKooOFAxWTQvEDHXsXD9MQ0pQJegQIDBAB&biw=1920&bih=919&dpr=1#imgrc=1u5y9vZ_6x64eM" />
+</a>
+
+<br />
+<br />
