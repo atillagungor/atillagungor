@@ -7,7 +7,7 @@ I am a .Net & React Fullstack developer. <br>I live in Turkey/Istanbul and I dev
 
 # Top Repositories:
 ## Tobeto Backend
-🔙🔚 [(https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)](https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)
+🔙🔚 [(https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)]https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1
 ## Tobeto Frontend
 🧑🏻‍💻 [(https://github.com/atillagungor/TobetoPlatformFinalProjectPair1React))](https://github.com/atillagungor/TobetoPlatformFinalProjectPair1React)
 
