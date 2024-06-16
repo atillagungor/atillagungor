@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a .Net & React Fullstack developer. <br>I live in Turkey/Istanbul and I develop games with Unity as a hobby. 🎮
+I am a .Net & React Fullstack Developer. <br> I live in Istanbul
 
 
 # 💻 Tech Stack
