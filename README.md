@@ -26,6 +26,7 @@ I am a .Net & React Fullstack Developer. <br> I live in Istanbul
 
 # 🗂️ Top Repositories
 - **Blog-App Backend** 🔗 [(GitHub)](https://github.com/atillagungor/Blog-App)
+- **Blog-App Frontend** 🔗 [(GitHub)](https://github.com/atillagungor/Blog-App-Frontend)
 - **Tobeto Backend** 🔙🔚 [(GitHub)](https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)
 - **Tobeto Frontend** 🧑🏻‍💻💻 [(GitHub)](https://github.com/atillagungor/TobetoPlatformFinalProjectPair1React)
 
