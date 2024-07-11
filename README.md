@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a .Net & React Fullstack Developer. <br> I live in Istanbul
+I am a Fullstack Developer. <br> I live in Istanbul
 
 
 # 💻 Tech Stack
