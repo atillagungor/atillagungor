@@ -25,8 +25,8 @@ I am a Fullstack Developer. <br> I live in Istanbul
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 🗂️ Top Repositories
-- **Library-App Backend** 🔗 [(GitHub)](https://github.com/atillagungor/library.app.backend))
-- **Library-App Frontend** 🔗 [(GitHub)](https://github.com/atillagungor/library.app))
+- **Library-App Backend** 🔗 [(GitHub)](https://github.com/atillagungor/library.app.backend)
+- **Library-App Frontend** 🔗 [(GitHub)](https://github.com/atillagungor/library.app)
 - **Tobeto Backend** 🔙🔚 [(GitHub)](https://github.com/atillagungor/TobetoPlatformFinalProject_Pair1)
 - **Tobeto Frontend** 🧑🏻‍💻💻 [(GitHub)](https://github.com/atillagungor/TobetoPlatformFinalProjectPair1React)
 
