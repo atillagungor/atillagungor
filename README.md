@@ -1,8 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
 <br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
-
 
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -35,6 +32,9 @@
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atillagungor&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atillagungor&theme=dark&hide_border=true)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atillagungor&theme=dark&hide_border=true&layout=compact)
 
 # 🏆 GitHub Trophies
