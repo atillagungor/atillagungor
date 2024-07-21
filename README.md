@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a Fullstack Developer. <br> I live in Istanbul
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
+<br><br>
 
 
 # 💻 Tech Stack
